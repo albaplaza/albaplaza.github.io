@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: categoria1 categoria2
 ---
 
