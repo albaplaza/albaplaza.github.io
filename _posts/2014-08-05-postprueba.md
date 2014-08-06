@@ -1,6 +1,6 @@
 ---
+layout: post
 published: true
-categories: categoria1 categoria2
 ---
 
 ## A New Post
