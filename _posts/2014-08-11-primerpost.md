@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Primer post
+published: true
 ---
 
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![descripción?](http://www.iconsdb.com/icons/preview/black/github-8-xxl.png)
