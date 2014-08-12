@@ -4,6 +4,6 @@ title: Primer post
 published: true
 ---
 
-## A New Post
+## 1er post
 
 ![descripción?](http://www.iconsdb.com/icons/preview/black/github-8-xxl.png)
