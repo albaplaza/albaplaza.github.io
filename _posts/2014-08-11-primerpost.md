@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: Primer post
 ---
 
 ## A New Post
