@@ -7,5 +7,5 @@ published: true
 
 #título
 
-(wave)! {{ page.user }} {{site.title}}
+(wave)! {{page.user}} {{site.title}}
 
