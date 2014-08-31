@@ -6,20 +6,19 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Open Source Paradise
+title:            Lanyon
 tagline:          'A Jekyll theme'
-description:      'descripción'
-url:              http://hyde.getpoole.com
-baseurl:          /
+description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://lanyon.getpoole.com
+baseurl:          '/'
+paginate:         5
 
 author:
   name:           'Mark Otto'
   url:            https://twitter.com/mdo
 
-paginate:         10
-
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/poole/lanyon
